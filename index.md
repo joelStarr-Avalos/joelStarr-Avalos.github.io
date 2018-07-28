@@ -14,7 +14,8 @@ public class LoveLain {
   }
 }
 ```
-joelstarravalos@dc51aab3f4d5291ac169915b170bebc8afdf1d01
+dc51aab3f4d5291ac169915b170bebc8afdf1d01
 
->>[x] Made this page
->>[] Made it good
+- [x] Make this page
+- [x] Make it good
+- [ ] Make it presentable to potential employers 
