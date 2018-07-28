@@ -1,16 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/joelStarr-Avalos/joelStarr-Avalos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+# LETS ALL LOVE LAIN
 ![Lain Gif](https://fauux.neocities.org/loveLain.gif)
-
-
 > fear takes strategy Unlearn linear thinking
 > Hit you with these zig zag thoughts
-# - Gilles Deleuze and Felix Guatarri (A Thousand Plateaus)
+> - Gilles Deleuze and Felix Guatarri (A Thousand Plateaus, 1. Introduction: Rhizome)
 
+## ENTER THE WIRED
+```java
+public void letsLove(int loves){
+  for (int i = 0; i < loves; i++) {
+    System.out.print("Let's all love Lain!"})
+  }
+}
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
