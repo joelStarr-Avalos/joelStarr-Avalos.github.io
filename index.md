@@ -4,8 +4,12 @@ You can use the [editor on GitHub](https://github.com/joelStarr-Avalos/joelStarr
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-######LET'S ALL LOVE LAIN
 ![Lain Gif](https://fauux.neocities.org/loveLain.gif)
+
+
+> fear takes strategy Unlearn linear thinking
+> Hit you with these zig zag thoughts
+# - Gilles Deleuze and Felix Guatarri (A Thousand Plateaus)
 
 ### Markdown
 
