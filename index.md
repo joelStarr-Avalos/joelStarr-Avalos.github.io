@@ -7,9 +7,9 @@
 ## ENTER THE WIRED
 ```java
 public class LoveLain {
-  public static void Main(string args[]) {
+  public static void main(String[] args) {
     while (true) {
-      System.out.print("Let's all love Lain!"})
+      System.out.print("Let's all love Lain!");
     }
   }
 }
