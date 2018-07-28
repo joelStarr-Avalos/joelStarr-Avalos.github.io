@@ -14,6 +14,10 @@ public class LoveLain {
   }
 }
 ```
+<a href="http://www.youtube.com/watch?feature=player_embedded&fiaWsgtJrNI
+" target="_blank"><img src="http://img.youtube.com/vi/fiaWsgtJrNI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ea8ef61edcd31dfa2c84bd29af4aaedf39c013df
 
 - [x] Make this page
