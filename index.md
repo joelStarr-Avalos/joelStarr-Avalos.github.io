@@ -20,5 +20,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ea8ef61edcd31dfa2c84bd29af4aaedf39c013df
 
 - [x] Make this page
-- [x] Make it good
+- [x] Make it ~~look like a 2003 geocities page~~ good
 - [ ] Make it presentable to potential employers 
